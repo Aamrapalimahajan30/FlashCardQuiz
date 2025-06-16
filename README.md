@@ -4,7 +4,7 @@ An interactive and responsive Flashcard Quiz application built using **HTML**, *
 
 ---
 
->  **I made this project with my friend [Aamrapali Mahajan](https://github.com/Aamrapalimahajan30)**
+>  **I made this project with my friend [Khan Aafiya](https://github.com/khan-aafiya)**
 
 ---
 
